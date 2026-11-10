@@ -1,6 +1,6 @@
 # jean-baptisteAZAN/homebrew-tap
 
-Homebrew tap for [ileDelbe](https://github.com/jean-baptisteAZAN/ileDelbe), a Dynamic Island-style hub for the MacBook notch.
+Homebrew tap for [ileDelbe](https://github.com/jean-baptisteAZAN/ileDelbe), a Dynamic Island-style hub for the MacBook notch and external screens.
 
 ## Install
 

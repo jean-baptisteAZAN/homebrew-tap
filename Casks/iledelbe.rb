@@ -1,6 +1,6 @@
 cask "iledelbe" do
-  version "0.3.0"
-  sha256 "ad1fc6ef4938ea5765f0f577fba8cb692cf1e6457c241a6df334e40ed40e395b"
+  version "0.4.0"
+  sha256 "4b0228a7b46536d1031e553f68da273f70e629c3f088b5529072d77a17964b74"
 
   url "https://github.com/jean-baptisteAZAN/ileDelbe/releases/download/v#{version}/ileDelbe-#{version}.zip"
   name "ileDelbe"
